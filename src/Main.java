@@ -1,3 +1,5 @@
 public class Main {
-    //pene
+    public static void main(String[] args) {
+        
+    }
 }
